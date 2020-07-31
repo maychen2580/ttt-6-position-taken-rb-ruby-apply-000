@@ -3,7 +3,7 @@
 def position_taken? (board, index)
   
   if board[index] == " " || board[index] == ""
-    taken = ture
+    
  elsif
     taken = false
 end
